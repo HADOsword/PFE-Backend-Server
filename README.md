@@ -43,8 +43,3 @@ This project uses:
 - Express.js
 - MongoDB
 - Nodemon (for development)
-
-## License
-
-This project is Free Open Source.
-
